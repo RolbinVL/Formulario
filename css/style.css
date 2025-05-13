@@ -1,0 +1,28 @@
+.custom-header {
+    background-color: #2c5282;
+    color: white;
+    padding: 20px 0;
+}
+.section-header {
+    background-color: #f8f9fa;
+    border-left: 4px solid #2c5282;
+    padding: 10px 15px;
+    margin: 20px 0 15px 0;
+    font-weight: bold;
+}
+.required {
+    color: red;
+}
+.info-box {
+    background-color: #e3f2fd;
+    padding: 15px;
+    border-radius: 5px;
+    margin: 15px 0;
+}
+.form-check-inline {
+    margin-right: 15px;
+}
+.field-label {
+    font-weight: 600;
+    color: #333;
+}
